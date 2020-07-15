@@ -1,0 +1,50 @@
+.logo {
+   padding-left: 50px;
+}
+.nana {
+   margin-bottom: 0px;
+   margin-top: 0px;
+}
+
+.about {
+   padding-right: 100px;
+   color: black;
+}
+
+.slider {
+   paddding: 0px;
+   height: 400px;
+}
+
+.kenya {
+   padding-left: 50px;
+   height: 250px;
+}
+
+.footer {
+   color: white;
+  background-color: darkblue;
+   display: grid;
+   justify-content: space-between;
+   justify-content: space-around;
+   grid-template-columns: auto auto auto;
+   margin-bottom: 50px;
+}
+.cont {
+   margin-bottom: 20px;
+}
+
+.visit {
+   margin-top: 0px;
+   margin-bottom: 0px;
+   color: orange;
+}
+
+.giv {
+   margin-top: 0px;
+   text-align: center;
+}
+
+.loc {
+   color: white;
+}
